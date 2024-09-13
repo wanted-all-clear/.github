@@ -40,9 +40,3 @@
 | DB 테이블명      | 스네이크 케이스 (snake_case) |
 | API 응답 데이터  | 카멜 케이스 (camelCase)     |
 | DTO 네이밍       | ~Request / ~Response       |
-
-<br>
-
-## 템플릿
-- 이슈
-- PR
